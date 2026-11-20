@@ -68,10 +68,13 @@ The legally binding terms are in the [LICENSE](LICENSE.md) file.
 
 ## Contact
 
-Suggestions and bug reports are welcome:
+**Developed by Avarwand Software**
 
-📧 [avarwand@yahoo.com](mailto:avarwand@yahoo.com) <br>
+**Initial Release:** December 2025 <br> 
+**Latest Update:** November 2026 (v1.4.4.1)
+
+
+📧 [avarwand@yahoo.com](mailto:avarwand@yahoo.com)  
 🌐 [github.com/avarwand](https://github.com/avarwand/)
 
-**Developed by Avarwand** <br>
-© 2025–2026 Avarwand Software . All rights reserved.
+© 2025–2026 Avarwand. All rights reserved.
